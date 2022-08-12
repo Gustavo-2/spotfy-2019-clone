@@ -71,6 +71,10 @@ nav.navbar-transparente {
     color: black;
 }
 
+.carousel-control-prev, .carousel-control-next {
+    width: 5%;
+}
+
 /*****Etrura de conteúdo*******************/
 #servicos {
     background: white;
